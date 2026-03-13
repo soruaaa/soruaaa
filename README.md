@@ -92,7 +92,7 @@ Hands-on development with **Unreal Engine 5, Unity, and OpenGL** through academi
 
 # 💼 Professional Experience
 
-### ❄️ Snowmobile Coach & Aurora Tour Guide  
+###  Snowmobile Coach & Aurora Tour Guide  
 **Destination N.W.T., Yellowknife, NWT**  
 📅 Sep 2019 – Mar 2021
 
