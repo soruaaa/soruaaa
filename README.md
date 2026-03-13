@@ -139,9 +139,12 @@ Hands-on development with **Unreal Engine 5, Unity, and OpenGL** through academi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soruaaa&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"> <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soruaaa&layout=compact&theme=dark)
 </p>
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=soruaaa&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soruaaa&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
 
 ---
