@@ -90,6 +90,43 @@ Hands-on development with **Unreal Engine 5, Unity, and OpenGL** through academi
 
 ---
 
+# 💼 Professional Experience
+
+### ❄️ Snowmobile Coach & Aurora Tour Guide  
+**Destination N.W.T., Yellowknife, NWT**  
+📅 Sep 2019 – Mar 2021
+
+- Led snowmobile expeditions in extreme winter conditions while enforcing safety procedures and ensuring guest well-being.
+- Delivered personalized tour experiences by assisting guests with equipment preparation and capturing aurora photographs.
+
+---
+
+# 🎓 Education
+
+### Bachelor of Science in Computer Science (Game Engineering)  
+**Sheridan College – Oakville, ON**  
+📅 Expected May 2027
+
+### Instrumentation and Control Engineering  
+**St. Lawrence College – Ontario**  
+📅 Sep 2016 – May 2019
+
+---
+
+# 📜 Certifications & Languages
+
+### Software Development Essential  
+**LaiOffer**  
+📅 Sept 2021 – June 2022
+
+- Intensive Java-focused program covering data structures, algorithms, and system design.
+
+### 🌐 Languages
+- English — Full Professional  
+- Mandarin Chinese — Native
+
+---
+
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/yutianliang
