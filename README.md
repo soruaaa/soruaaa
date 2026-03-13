@@ -142,6 +142,8 @@ Hands-on development with **Unreal Engine 5, Unity, and OpenGL** through academi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soruaaa&layout=compact&theme=dark&hide_border=true" height="165">
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soruaaa&layout=compact&theme=dark)
+
 ---
 
 ⭐ *Always open to collaborating on game development and software engineering projects.*
