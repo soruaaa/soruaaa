@@ -1,4 +1,7 @@
-<h1 align="center">YUTIAN LIANG</h1>
+<h1 align="center">WELCOME TO MY GITHUB</h1>
+
+![](https://github.com/soruaaa/soruaaa/blob/main/banner.jpg?raw=true)
+
 <h3 align="center">Computer Science Student | Game Development & Software Engineering Intern</h3>
 
 <p align="center">
